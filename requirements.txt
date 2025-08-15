@@ -1,0 +1,5 @@
+torch
+torchvision
+Pillow
+nltk
+numpy
